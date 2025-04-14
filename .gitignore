@@ -1,0 +1,10 @@
+readme
+kernel.elf
+kernel.map
+opensbi-riscv32-generic-fw_dynamic.bin
+shell.bin
+shell.bin.o
+shell.elf
+shell.map
+/test
+/vscode
